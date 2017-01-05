@@ -1,2 +1,2 @@
 # alphaAndroid
-Just starting in the android world
+Just started in the android world
